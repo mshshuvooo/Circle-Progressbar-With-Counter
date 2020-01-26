@@ -1,0 +1,7 @@
+.progress_inner .circle {
+  float: left;
+  width: 25%;
+}
+.circle > canvas {
+  transform: rotate(90deg);
+}
